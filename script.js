@@ -106,7 +106,7 @@ async function getMovie(id) {
 async function getMovies(input) {
     try {
         
-        const res = await fetch(`http://www.omdbapi.com/?apikey=f034dc26&s=${input}`)
+        const res = await fetch(`https://www.omdbapi.com/?apikey=f034dc26&s=${input}`)
         if (!res.ok){
             throw new Error(`HTTP error! status: ${res.status}`);
 
