@@ -86,7 +86,7 @@ if (localStorage.length > 0) {
 }
 
 async function getMovie(id) {
-    const movieRes = await fetch(`http://www.omdbapi.com/?apikey=f034dc26&i=${id}`)
+    const movieRes = await fetch(`https://www.omdbapi.com/?apikey=f034dc26&i=${id}`)
     if (!movieRes.ok){
         throw new Error(`HTTP error! status: ${movieRes.status}`);
 
