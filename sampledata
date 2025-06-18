@@ -1,0 +1,87 @@
+ <div class="movie-container">
+        <img id='movie-img' src="images/blade-runner.png">
+        <div class="movie-contents">
+            <div class="title-container ">
+                <h2 id="movie-title">Blade Runner</h2>
+                <img id='star' src="images/star.png">
+                <p id="movie-rating">8.1</p>
+            </div>
+            <div class="title-container ">
+                <p id="movie-runtime">117 min</p>
+                <p id="movie-tags">Action, Drama, Sci-fi</p>
+                <button class='btn-add'id="btn-add">
+                    <img src="images/add-icon.png">
+                </button>
+                <span>Watchlist</span>
+            </div>
+            <p id="movie-description">A blade runner must pursue and terminate 
+                four replicants who stole a 
+                ship in space, and have returned to Earth to find their creator.
+            </p>
+        </div>
+       </div>
+       <div class="movie-container">
+        <img id='movie-img' src="images/blade-runner.png">
+        <div class="movie-contents">
+            <div class="title-container ">
+                <h2 id="movie-title">Blade Runner</h2>
+                <img id='star' src="images/star.png">
+                <p id="movie-rating">8.1</p>
+            </div>
+            <div class="title-container ">
+                <p id="movie-runtime">117 min</p>
+                <p id="movie-genre">Action, Drama, Sci-fi</p>
+                <button class='btn-add'id="btn-add">
+                    <img src="images/add-icon.png">
+                </button>
+                <span>Watchlist</span>
+            </div>
+            <p id="movie-description">A blade runner must pursue and terminate 
+                four replicants who stole a 
+                ship in space, and have returned to Earth to find their creator.
+            </p>
+        </div>
+       </div>
+       <div class="movie-container">
+        <img id='movie-img' src="images/blade-runner.png">
+        <div class="movie-contents">
+            <div class="title-container ">
+                <h2 id="movie-title">Blade Runner</h2>
+                <img id='star' src="images/star.png">
+                <p id="movie-rating">8.1</p>
+            </div>
+            <div class="title-container ">
+                <p id="movie-runtime">117 min</p>
+                <p id="movie-tags">Action, Drama, Sci-fi</p>
+                <button class='btn-add'id="btn-add">
+                    <img src="images/add-icon.png">
+                </button>
+                <span>Watchlist</span>
+            </div>
+            <p id="movie-description">A blade runner must pursue and terminate 
+                four replicants who stole a 
+                ship in space, and have returned to Earth to find their creator.
+            </p>
+        </div>
+       </div>
+       <div class="movie-container">
+        <img id='movie-img' src="images/blade-runner.png">
+        <div class="movie-contents">
+            <div class="title-container ">
+                <h2 id="movie-title">Blade Runner</h2>
+                <img id='star' src="images/star.png">
+                <p id="movie-rating">8.1</p>
+            </div>
+            <div class="title-container ">
+                <p id="movie-runtime">117 min</p>
+                <p id="movie-tags">Action, Drama, Sci-fi</p>
+                <button class='btn-add'id="btn-add">
+                    <img src="images/add-icon.png">
+                </button>
+                <span>Watchlist</span>
+            </div>
+            <p id="movie-description">A blade runner must pursue and terminate four replicants who stole a 
+                ship in space, and have returned to Earth to find their creator.
+            </p>
+        </div>
+       </div>
