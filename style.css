@@ -12,7 +12,7 @@ body {
 
 header {
     display: flex;
-    background: url('images/header-bg.png');
+    background: url('images/film.jpg') no-repeat center bottom;
     background-size: cover;
     height: 200px;
     width: 100%;
@@ -20,13 +20,14 @@ header {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 2em;
-    
 }
+
 
 
 header h1 {
     font-size: 3rem;
     margin-left: 5rem;
+    text-shadow: 2px 2px black;
     
 }
 
