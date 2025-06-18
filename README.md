@@ -3,7 +3,7 @@
 A simple web app that lets users search for movies using the [OMDb API](http://www.omdbapi.com/), add them to a personal watchlist, and store that list using local storage. 
 
 ## Demo
-[Netlify](https://movie-watchlist-nlc.netlify.app/)
+Checkout the Live Demo On Netlify: [Movie Watchlist](https://movie-watchlist-nlc.netlify.app/)
 ## Features
 
 * 🔍 **Movie Search** — Search for movies by title using the OMDb API
